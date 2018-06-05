@@ -1,8 +1,8 @@
-/*
-@file main.c
-@brief C library implementation that solves the problem Order (Infoarena) using Segment Trees
-@author Theodora Danciulescu
-@date 06/05/18.
+/**
+* @file main.c
+* @brief C library implementation that solves the problem Order (Infoarena) using Segment Trees
+* @author Theodora Danciulescu
+* @date 06/05/18.
 */
 
 #include <stdlib.h>
@@ -19,8 +19,7 @@ int vec[30005];
 * @fn int main()
 * @author Theodora Danciulescu
 * @brief Main function.
-* @Function calls of build_tree and function imported from build+_tree.h and respectively from algorithm.h
-* @var initializes some variables
+* @Function calls of build_tree and function imported from build+_tree.h and respectively from algorithm.h and initializes some variables
 */
 
 int main(){
