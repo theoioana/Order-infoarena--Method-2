@@ -15,8 +15,8 @@
 #define right_child (left_child | 1)
 
 /**
-* @left_child formula for accesing the left child of the node
-* @right_child formula for accesing the right child of the node
+* @param left_child formula for accesing the left child of the node
+* @param right_child formula for accesing the right child of the node
 * @author Theodora Danciulescu
 * @date 06/05/18.
 */

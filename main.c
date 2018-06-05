@@ -16,11 +16,11 @@ int aint[30005 * 4];
 int vec[30005];
 
 /**
-* @\fn int main()
+* @fn int main()
 * @author Theodora Danciulescu
-* @\brief Main function.
+* @brief Main function.
 * @Function calls of build_tree and function imported from build+_tree.h and respectively from algorithm.h
-* @\var initializes some variables
+* @var initializes some variables
 */
 
 int main(){
